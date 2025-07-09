@@ -1,0 +1,10 @@
+terra-key-ec2
+terra-key-ec2.pub
+terraform.tfstate
+terraform.tfstate.backup
+.terraform/
+*.tfvars
+crash.log
+.terraform.lock.hcl
+*.tfstate
+terraform.tfstate.1751875829.backup
